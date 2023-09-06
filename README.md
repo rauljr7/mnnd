@@ -23,7 +23,7 @@ There are two ways to use this tool:
 - Run the downloaded `.exe` file to install the application.
 - Follow the on-screen instructions to complete the installation.
 
-### 2. Manual Installation
+### 2. Manual Python Installation (Usually for developers)
 
 #### Pre-requisites
 
