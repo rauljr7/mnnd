@@ -13,13 +13,23 @@ Welcome to the MIDI Nashville Numbering Display project! This Python script disp
 - Customize root keys.
 - Optionally, keep the number displayed on key release.
 
-## 🚀 Quick Start Guide
+## 🚀 Installation Options
 
-### Pre-requisites
+There are two ways to use this tool:
 
-- Make sure Python is installed on your machine. If not, download and install Python from [python.org](https://www.python.org/downloads/).
+### 1. Download the Executable Installer
 
-#### To Check if Python is Installed:
+- Click [here](https://github.com/rauljr7/mnnd/raw/main/mnnd%20install.zip) to download the executable installer.
+- Run the downloaded `.exe` file to install the application.
+- Follow the on-screen instructions to complete the installation.
+
+### 2. Manual Installation
+
+#### Pre-requisites
+
+- Ensure that Python is installed on your machine. If not, download and install Python from [python.org](https://www.python.org/downloads/).
+
+##### To Check if Python is Installed:
 
 1. Open Command Prompt
 2. Type `python --version` and hit Enter.
