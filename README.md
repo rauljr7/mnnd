@@ -4,7 +4,7 @@
 
 Welcome to the MIDI Nashville Numbering Display project! This Python script displays Nashville numbering system notes as you play your MIDI keyboard. Perfect for musicians trying to figure out a song or teaching music theory. 🎼
 
-![Demo](https://assets.rauluriartejr.com/mnnd/MNNDDemo.gif)
+[![Demo](https://assets.rauluriartejr.com/mnnd/MNNDDemo.gif)](#)
 
 ## 🌟 Features
 
